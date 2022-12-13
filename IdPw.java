@@ -1,5 +1,3 @@
-package Operatorler;
-
 import java.util.Scanner;
 
 //Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni
